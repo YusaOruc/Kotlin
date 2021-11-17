@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinRetrofitIP</string>
+    <string name="name">name</string>
+    <string name="price">price</string>
+</resources>
